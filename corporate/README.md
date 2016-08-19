@@ -1,5 +1,6 @@
 #corporate.py:
 ###Tweet like your boss!
+[@From_Corporate](https://twitter.com/From_Corporate)
 ####TODO:
 Make it more object-oriented. Make it command-line-friendly. Maybe add more words to the lists? 
 ####Info:
