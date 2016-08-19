@@ -10,13 +10,13 @@ class Fuzzfeed(object):
 
 		self.iterations = iterations
 
-		self.appKey = "PUbmAoh8EDDMoYWGxln8OG3kd"
+		self.appKey = "INSERT_APP_KEY"
 	
-		self.appSecret = "2lWU5yHPTMwsupIH1JmaXYE5XH3dfbaWDkTt9GL4Y0FDZpHYbb"
+		self.appSecret = "INSERT_APP_SECRET"
 
-		self.tokenKey =  "2918231505-xtDIMbh7baGd8YuYsH7Of5ULlb2GGavVH61MEz0"
+		self.tokenKey =  "INSERT_TOKEN_KEY"
 
-		self.tokenSecret = "XgktaBAZhvvLAg91VpP2zv2P5AcKAoHA49OAYrZMPRTQ3"
+		self.tokenSecret = "INSERT_TOKEN_SECRET"
 
 		self.numbers = ['2', 
 				   		'3', 
