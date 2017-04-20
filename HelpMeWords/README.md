@@ -1,5 +1,5 @@
-#Help Me, Words
-###A Twitter bot which demands assistance.
+# Help Me, Words
+### A Twitter bot which demands assistance.
 
 [@HelpMeWords](https://twitter.com/HelpMeWords)
 
